@@ -6,7 +6,7 @@ public class MiClase {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		System.out.println("Funciona por favor Hernan - ok");
+		System.out.println("Funciona por favor Hernan - ok - ok");
 
 	}
 
